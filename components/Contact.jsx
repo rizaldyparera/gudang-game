@@ -30,10 +30,10 @@ function Contact () {
                     <div className="flex flex-col mt-5 lg:mt-0">
                         <h1 className="font-bold font-montserrat text-2xl xl:w-full mb-[5px]">Get GudangGame News on :</h1>
                         <div className="flex">                           
-                            <a href="#" className="font-montserrat text-3xl pr-2"><i class='bx bxl-facebook-circle'></i></a>
-                            <a href="#" className="font-montserrat text-3xl pr-2"><i class='bx bxl-instagram-alt'></i></a>
-                            <a href="#" className="font-montserrat text-3xl pr-2"><i class='bx bxl-tiktok'></i></a>
-                            <a href="#" className="font-montserrat text-3xl pr-2"><i class='bx bxl-youtube'></i></a>
+                            <a href="#" className="font-montserrat text-3xl pr-2"><i className='bx bxl-facebook-circle'></i></a>
+                            <a href="#" className="font-montserrat text-3xl pr-2"><i className='bx bxl-instagram-alt'></i></a>
+                            <a href="#" className="font-montserrat text-3xl pr-2"><i className='bx bxl-tiktok'></i></a>
+                            <a href="#" className="font-montserrat text-3xl pr-2"><i className='bx bxl-youtube'></i></a>
                         </div>
                     </div>
                 </div>

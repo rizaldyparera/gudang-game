@@ -1,7 +1,7 @@
 function News () {
     return (
         <>
-            <div id="news" className="pt-32" data-aos="zoom-in-up">
+            <div id="news" className="pt-32" data-aos="zoom-in-up" data-aos-duration="2000">
                 <div className="flex">
                     <div className="flex mx-auto flex-col w-full">
                         <h1 className="font-bold font-montserrat text-2xl text-center text-primary-color">Featured News</h1>
@@ -18,7 +18,7 @@ function News () {
                     <a className="text-primary-color text-sm font-roboto md:text-lg px-4 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3">Popular News</a>
                     <a className="text-primary-color text-sm font-roboto md:text-lg px-4 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3">Latest News</a>                  
                 </div>
-                <div className="mt-10 mb-10">
+                <div className="mt-10 mb-10" data-aos="zoom-in" data-aos-duration="2000">
                     <div className="xl:w-8/12 mx-auto">                     
                         <div className="flex justify-center">
                             <div className="flex bg-card-color w-[300px] h-[320px] xl:w-[512px] xl:h-[480px] mx-2 rounded-lg">

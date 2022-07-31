@@ -3,7 +3,7 @@ import React from "react";
 function Market () {
     return (
         <>
-            <div className="pt-32 md:px-[90px]" id="market" data-aos="zoom-in-up">
+            <div className="pt-32 md:px-[90px]" id="market" data-aos="zoom-in-up" data-aos-duration="2000">
                 <div className="flex">
                     <div className="flex mx-auto flex-col w-full">
                         <h1 className="font-bold font-montserrat text-2xl text-center text-primary-color">Market</h1>
@@ -20,7 +20,7 @@ function Market () {
                     <a className="font-roboto text-primary-color text-sm md:text-lg px-4 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3">All Items</a>
                     <a className="font-roboto text-primary-color text-sm md:text-lg px-4 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3">Popular Items</a>                  
                 </div>
-                <div className="mt-10 mb-10 flex justify-center">
+                <div className="mt-10 mb-10 flex justify-center" data-aos="zoom-in" data-aos-duration="2000">
                     <div className="flex flex-col w-full justify-center">                       
                         <div className="flex bg-primary-color mx-4">
                             <h1 className="font-medium text-base w-full px-[10px] font-montserrat">NAME</h1>

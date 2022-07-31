@@ -6,7 +6,7 @@ function Catalog () {
    
     return(
         <>
-            <div id="catalog" className="pt-32" data-aos="zoom-in-up">
+            <div id="catalog" className="pt-32" data-aos="zoom-in-up" data-aos-duration="2000">
                 <div className="flex">
                     <div className="flex mx-auto flex-col w-full">
                         <h1 className="font-bold font-montserrat text-2xl text-center text-primary-color">Catalog</h1>
@@ -29,7 +29,7 @@ function Catalog () {
                 <div className="flex justify-center mt-10 mb-10">
                     <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
 
-                        <div className="w-[400px] h-[400px] md:w-[360px] lg:w-[400px] bg-primary-color rounded-[20px]">
+                        <div className="w-[400px] h-[400px] md:w-[360px] lg:w-[400px] bg-primary-color rounded-[20px]" data-aos="zoom-in" data-aos-duration="2000">
                             <div className="relative justify-center flex mt-5">                   
                                 <img src="/assets/apex.jpg" className="w-[360px] h-[200px] rounded-t-[20px]" alt="" />                     
                                 <span className="font-montserrat py-1 px-4 bg-secondary-color absolute right-5 md:right-0 lg:right-5 rounded-tr-[20px] font-semibold items-center">Action</span>
@@ -45,7 +45,7 @@ function Catalog () {
                             </div>                         
                         </div>
 
-                        <div className="w-[400px] h-[400px] md:w-[360px] lg:w-[400px] bg-primary-color rounded-[20px]">
+                        <div className="w-[400px] h-[400px] md:w-[360px] lg:w-[400px] bg-primary-color rounded-[20px]" data-aos="zoom-in" data-aos-duration="2000">
                             <div className="relative justify-center flex mt-5">
                                 <img src="/assets/fifa.jpg" className="w-[360px] h-[200px] rounded-t-[20px]" alt="" />     
                                 <span className="font-montserrat py-1 px-4 bg-secondary-color absolute right-5 md:right-0 lg:right-5 rounded-tr-[20px] font-semibold items-center">Sports</span>
@@ -61,7 +61,7 @@ function Catalog () {
                             </div>                         
                         </div>
 
-                        <div className="w-[400px] h-[400px] md:w-[360px] lg:w-[400px] bg-primary-color rounded-[20px]">
+                        <div className="w-[400px] h-[400px] md:w-[360px] lg:w-[400px] bg-primary-color rounded-[20px]" data-aos="zoom-in" data-aos-duration="2000">
                             <div className="relative justify-center flex mt-5">
                                 <img src="/assets/gtav.jpg" className="w-[360px] h-[200px] rounded-t-[20px]" alt="" />     
                                 <span className="font-montserrat py-1 px-4 bg-secondary-color absolute right-5 md:right-0 lg:right-5 rounded-tr-[20px] font-semibold items-center">Action</span>
@@ -80,7 +80,7 @@ function Catalog () {
                             </div>                         
                         </div>
 
-                        <div className="w-[400px] h-[400px] md:w-[360px] lg:w-[400px] bg-primary-color rounded-[20px]">
+                        <div className="w-[400px] h-[400px] md:w-[360px] lg:w-[400px] bg-primary-color rounded-[20px]" data-aos="zoom-in" data-aos-duration="2000">
                             <div className="relative justify-center flex mt-5">
                                 <img src="/assets/stray.jpg" className="w-[360px] h-[200px] rounded-t-[20px]" alt="" />     
                                 <span className="font-montserrat py-1 px-4 bg-secondary-color absolute right-5 md:right-0 lg:right-5 rounded-tr-[20px] font-semibold items-center">Adventure</span>
@@ -96,7 +96,7 @@ function Catalog () {
                             </div>                         
                         </div>
 
-                        <div className="w-[400px] h-[400px] md:w-[360px] lg:w-[400px] bg-primary-color rounded-[20px]">
+                        <div className="w-[400px] h-[400px] md:w-[360px] lg:w-[400px] bg-primary-color rounded-[20px]" data-aos="zoom-in" data-aos-duration="2000">
                             <div className="relative justify-center flex mt-5">
                                 <img src="/assets/valorant.jpg" className="w-[360px] h-[200px] rounded-t-[20px]" alt="" />     
                                 <span className="font-montserrat py-1 px-4 bg-secondary-color absolute right-5 md:right-0 lg:right-5 rounded-tr-[20px] font-semibold items-center">Action</span>
@@ -112,7 +112,7 @@ function Catalog () {
                             </div>                         
                         </div>
 
-                        <div className="w-[400px] h-[400px] md:w-[360px] lg:w-[400px] bg-primary-color rounded-[20px]">
+                        <div className="w-[400px] h-[400px] md:w-[360px] lg:w-[400px] bg-primary-color rounded-[20px]" data-aos="zoom-in" data-aos-duration="2000">
                             <div className="relative justify-center flex mt-5">
                                 <img src="/assets/fh5.jpg" className="w-[360px] h-[200px] rounded-t-[20px]" alt="" />     
                                 <span className="py-1 px-4 font-montserrat bg-secondary-color absolute right-5 md:right-0 lg:right-5 rounded-tr-[20px] font-semibold items-center">Sports</span>
