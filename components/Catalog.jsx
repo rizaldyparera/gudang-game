@@ -6,11 +6,11 @@ function Catalog () {
    
     return(
         <>
-            <div id="catalog" className="pt-32" data-aos="fade-left">
+            <div id="catalog" className="pt-32" data-aos="zoom-in-up" data-aos-duration="2000">
                 <div className="flex">
                     <div className="flex mx-auto flex-col w-full">
                         <h1 className="font-bold font-montserrat text-2xl text-center text-primary-color">Catalog</h1>
-                        <p className="font-medium font-montserrat text-sm text-center text-primary-color">discover exciting and fun games from various genres</p>
+                        <p className="font-medium font-roboto text-sm text-center text-primary-color">discover exciting and fun games from various genres</p>
                         <div className="items-center flex-row flex relative mx-auto justify-center text-center mt-5 w-10/12 sm:w-7/12 md:w-6/12 lg:w-5/12 xl:w-4/12 mb-7">
                             <i class='bx bx-search-alt text-background-color absolute top-2 left-2 text-lg'></i>
                             <input className="font-montserrat w-full text-sm px-8 h-10 rounded-lg text-background-color placeholder:text-background-color
@@ -20,11 +20,11 @@ function Catalog () {
                     </div>
                 </div>
                 <div className="flex w-full justify-center">
-                    <a className="text-primary-color text-xs md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-montserrat">All Games</a>
-                    <a className="text-primary-color text-xs md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-montserrat">Free Games</a>
-                    <a className="text-primary-color text-xs md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-montserrat">New Release</a>
-                    <a className="text-primary-color text-xs md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-montserrat">Special Offers</a>
-                    <a className="text-primary-color text-xs md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-montserrat">Top Sellers</a>
+                    <a className="text-primary-color text-sm md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">All Games</a>
+                    <a className="text-primary-color text-sm md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Free Games</a>
+                    <a className="text-primary-color text-sm md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">New Release</a>
+                    <a className="text-primary-color text-sm md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Special Offers</a>
+                    <a className="text-primary-color text-sm md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Top Sellers</a>
                 </div>
                 <div className="flex justify-center mt-10 mb-10">
                     <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">

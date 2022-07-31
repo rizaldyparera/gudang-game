@@ -1,11 +1,11 @@
 function News () {
     return (
         <>
-            <div id="news" className="pt-32" data-aos="fade-left">
+            <div id="news" className="pt-32" data-aos="zoom-in-up" data-aos-duration="2000">
                 <div className="flex">
                     <div className="flex mx-auto flex-col w-full">
                         <h1 className="font-bold font-montserrat text-2xl text-center text-primary-color">Featured News</h1>
-                        <p className="font-medium font-montserrat text-sm text-center text-primary-color">various featured and latest news from all games</p>
+                        <p className="font-medium font-roboto text-sm text-center text-primary-color">various featured and latest news from all games</p>
                         <div className="items-center flex-row flex relative mx-auto justify-center text-center mt-5 w-10/12 sm:w-7/12 md:w-6/12 lg:w-5/12 xl:w-4/12 mb-7">
                             <i class='bx bx-search-alt text-background-color absolute top-2 left-2 text-lg'></i>
                             <input className="font-montserrat w-full text-sm px-8 h-10 rounded-lg text-background-color placeholder:text-background-color
@@ -15,8 +15,8 @@ function News () {
                     </div>
                 </div>
                 <div className="flex w-full justify-center">
-                    <a className="text-primary-color text-xs font-montserrat md:text-lg px-4 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3">Popular News</a>
-                    <a className="text-primary-color text-xs font-montserrat md:text-lg px-4 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3">Latest News</a>                  
+                    <a className="text-primary-color text-sm font-roboto md:text-lg px-4 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3">Popular News</a>
+                    <a className="text-primary-color text-sm font-roboto md:text-lg px-4 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3">Latest News</a>                  
                 </div>
                 <div className="mt-10 mb-10">
                     <div className="xl:w-8/12 mx-auto">                     

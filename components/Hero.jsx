@@ -4,7 +4,7 @@ import Bghero from '/public/assets/hero.png';
 function Hero () {
     return (
         <>
-            <div className="flex w-full xl:px-[90px] xl:block justify-center pt-48" data-aos="fade-right">
+            <div className="flex w-full xl:px-[90px] xl:block justify-center pt-48" data-aos="zoom-in-up" data-aos-duration="2000">
                 <div className="flex flex-col xl:flex-row items-center">
                     <div className="flex-col w-full">
                         <h1 className="text-primary-color font-montserrat font-bold text-2xl text-center xl:text-4xl xl:text-left mb-3">Let The

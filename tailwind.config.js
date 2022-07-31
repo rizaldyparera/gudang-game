@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       fontFamily : {
         'montserrat' : 'Montserrat',
+        'roboto' : 'Roboto',
       },
       colors: {
         'background-color' : '#2A2438',
