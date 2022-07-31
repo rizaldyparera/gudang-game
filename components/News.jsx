@@ -1,7 +1,7 @@
 function News () {
     return (
         <>
-            <div id="news" className="pt-32" data-aos="zoom-in-up" data-aos-duration="2000">
+            <div id="news" className="pt-32" data-aos="zoom-in-up">
                 <div className="flex">
                     <div className="flex mx-auto flex-col w-full">
                         <h1 className="font-bold font-montserrat text-2xl text-center text-primary-color">Featured News</h1>

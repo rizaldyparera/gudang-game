@@ -6,7 +6,7 @@ function Catalog () {
    
     return(
         <>
-            <div id="catalog" className="pt-32" data-aos="zoom-in-up" data-aos-duration="2000">
+            <div id="catalog" className="pt-32" data-aos="zoom-in-up">
                 <div className="flex">
                     <div className="flex mx-auto flex-col w-full">
                         <h1 className="font-bold font-montserrat text-2xl text-center text-primary-color">Catalog</h1>
@@ -20,11 +20,11 @@ function Catalog () {
                     </div>
                 </div>
                 <div className="flex w-full justify-center">
-                    <a className="text-primary-color text-sm md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">All Games</a>
-                    <a className="text-primary-color text-sm md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Free Games</a>
-                    <a className="text-primary-color text-sm md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">New Release</a>
-                    <a className="text-primary-color text-sm md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Special Offers</a>
-                    <a className="text-primary-color text-sm md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Top Sellers</a>
+                    <a className="text-primary-color text-[13px] md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">All Games</a>
+                    <a className="text-primary-color text-[13px] md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Free Games</a>
+                    <a className="text-primary-color text-[13px] md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">New Release</a>
+                    <a className="text-primary-color text-[13px] md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Special Offers</a>
+                    <a className="text-primary-color text-[13px] md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Top Sellers</a>
                 </div>
                 <div className="flex justify-center mt-10 mb-10">
                     <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">

@@ -3,7 +3,7 @@ import React from "react";
 function Market () {
     return (
         <>
-            <div className="pt-32 md:px-[90px]" id="market" data-aos="zoom-in-up" data-aos-duration="2000">
+            <div className="pt-32 md:px-[90px]" id="market" data-aos="zoom-in-up">
                 <div className="flex">
                     <div className="flex mx-auto flex-col w-full">
                         <h1 className="font-bold font-montserrat text-2xl text-center text-primary-color">Market</h1>

@@ -4,7 +4,7 @@ import Bghero from '/public/assets/hero.png';
 function Hero () {
     return (
         <>
-            <div className="flex w-full xl:px-[90px] xl:block justify-center pt-48" data-aos="zoom-in-up" data-aos-duration="2000">
+            <div className="flex w-full xl:px-[90px] xl:block justify-center pt-48" data-aos="zoom-in-up">
                 <div className="flex flex-col xl:flex-row items-center">
                     <div className="flex-col w-full">
                         <h1 className="text-primary-color font-montserrat font-bold text-2xl text-center xl:text-4xl xl:text-left mb-3">Let The
@@ -25,7 +25,7 @@ function Hero () {
                 </div>
             </div>
             <div className="flex pt-20 sm:pt-12 xl:px-[90px] px-4 md:px-11">
-                <div className="px-4 xl:pl-0">             
+                <div className="px-2 xl:pl-0">             
                     <h1 className="text-secondary-color font-montserrat font-bold text-xl text-center">100K</h1>
                     <p className="text-primary-color font-montserrat font-bold text-xl">Users</p>
                 </div>
