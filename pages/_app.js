@@ -5,12 +5,7 @@ import '../styles/globals.css'
 
 function MyApp({ Component, pageProps }) {
   useEffect(() => {
-    AOS.init({
-      easing: 'ease-out-cubic',
-      once: true,
-      offset: 50,
-      delay: 50,
-    });
+    AOS.init();
   });
   return <Component {...pageProps} />
 }
