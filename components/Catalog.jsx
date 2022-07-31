@@ -20,11 +20,11 @@ function Catalog () {
                     </div>
                 </div>
                 <div className="flex w-full justify-center">
-                    <a className="text-primary-color text-[13px] md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">All Games</a>
-                    <a className="text-primary-color text-[13px] md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Free Games</a>
-                    <a className="text-primary-color text-[13px] md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">New Release</a>
-                    <a className="text-primary-color text-[13px] md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Special Offers</a>
-                    <a className="text-primary-color text-[13px] md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Top Sellers</a>
+                    <a className="text-primary-color text-xs md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">All Games</a>
+                    <a className="text-primary-color text-xs md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Free Games</a>
+                    <a className="text-primary-color text-xs md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">New Release</a>
+                    <a className="text-primary-color text-xs md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Special Offers</a>
+                    <a className="text-primary-color text-xs md:text-lg px-2 cursor-pointer active:bg-secondary-color hover:bg-secondary-color hover:rounded-lg py-3 font-roboto">Top Sellers</a>
                 </div>
                 <div className="flex justify-center mt-10 mb-10">
                     <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
