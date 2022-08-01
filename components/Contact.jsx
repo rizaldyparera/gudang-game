@@ -15,16 +15,16 @@ function Contact () {
                     <div className="flex flex-col lg:mx-auto sm:flex-row">                     
                         <div className="flex flex-col mt-5 lg:mt-0 xl:px-[25px]">
                             <h1 className="font-bold font-montserrat text-lg">Company</h1>
-                            <a href="#" className="font-montserrat text-lg w-[20%] sm:w-[60%]">About Us</a>
-                            <a href="#" className="font-montserrat text-lg w-[28%] sm:w-[90%]">Privacy Policy</a>
+                            <a href="#" className="font-montserrat text-lg w-[25%] sm:w-[60%]">About Us</a>
+                            <a href="#" className="font-montserrat text-lg w-[33%] sm:w-[90%]">Privacy Policy</a>
                             <a href="#" className="font-montserrat text-lg w-[15%]">Support</a>
-                            <a href="#" className="font-montserrat text-lg w-[35%] sm:w-full">Terms of Service</a>
+                            <a href="#" className="font-montserrat text-lg w-[40%] sm:w-full">Terms of Service</a>
                         </div>
                         <div className="flex flex-col mt-5 sm:mx-auto xl:px-[25px] lg:mt-0">
                             <h1 className="font-bold font-montserrat text-lg">Resources</h1>
                             <a href="#" className="font-montserrat text-lg w-[15%]">Careers</a>
-                            <a href="#" className="font-montserrat text-lg w-[40%] sm:w-[75%]">Community Rules</a>
-                            <a href="#" className="font-montserrat text-lg w-[55%] sm:w-full">Publish on GudangGame</a>
+                            <a href="#" className="font-montserrat text-lg w-[50%] sm:w-[75%]">Community Rules</a>
+                            <a href="#" className="font-montserrat text-lg w-[65%] sm:w-full">Publish on GudangGame</a>
                         </div>
                     </div>
                     <div className="flex flex-col mt-5 lg:mt-0">
