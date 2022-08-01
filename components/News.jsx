@@ -41,9 +41,9 @@ function News () {
                         </div>
                         <div className="flex mx-auto justify-center mt-5">                       
                             <div className="flex flex-col xl:flex-row items-center">
-                                <div className="flex bg-card-color sm:w-[99%] md:w-[82%] h-[120px] xl:h-[150px] mx-2 my-4 rounded-lg" data-aos="zoom-in-right">
+                                <div className="flex bg-card-color sm:w-[99%] md:w-[82%] h-[130px] xl:h-[150px] mx-2 my-4 rounded-lg" data-aos="zoom-in-right">
                                     <div className="relative flex">
-                                        <img src="/assets/news/bf.jpg" className="w-[100px] h-[120px] xl:h-[150px] object-cover rounded-l-lg" alt="" />
+                                        <img src="/assets/news/bf.jpg" className="w-[100px] h-[130px] xl:h-[150px] object-cover rounded-l-lg" alt="" />
                                         <div>                                  
                                             <h1 className="font-bold font-montserrat text-sm px-2 py-2">Battlefield 2042 Is Finally Fixing This Major Gameplay Issue</h1>
                                             <p className="text-xs font-montserrat px-2">Rumors even circulated suggesting the team would abandon "Battlefield 2042" altogether after ....</p>
@@ -52,9 +52,9 @@ function News () {
                                     </div>
                                 </div>
 
-                                <div className="flex bg-card-color h-[120px] sm:w-[99%] md:w-[82%] xl:h-[150px] mx-2 my-4 rounded-lg" data-aos="zoom-in-left">
+                                <div className="flex bg-card-color h-[130px] sm:w-[99%] md:w-[82%] xl:h-[150px] mx-2 my-4 rounded-lg" data-aos="zoom-in-left">
                                     <div className="relative flex">
-                                        <img src="/assets/news/apex.jpg" className="w-[100px] h-[120px] xl:h-[150px] object-cover rounded-l-lg" alt="" />
+                                        <img src="/assets/news/apex.jpg" className="w-[100px] h-[130px] xl:h-[150px] object-cover rounded-l-lg" alt="" />
                                         <div>                                  
                                             <h1 className="font-bold font-montserrat text-sm px-2 py-2">Apex Legends’ new legend Vantage, Hunted update release ...</h1>
                                             <p className="text-xs font-montserrat px-2">Apex Legends' next Legend, the sharpshooter known as Vantage, will arrive on Aug. 9 as part of the game's Hunted update,...</p>
@@ -66,7 +66,7 @@ function News () {
                         </div>
                     </div>                  
                 </div>
-                <div className="flex justify-center mb-10">
+                <div className="flex justify-center mb-10" data-aos="zoom-in">
                     <a href="#" className="text-primary-color font-montserrat px-10 py-2 border border-primary-color rounded-lg">View All</a>
                 </div>
             </div>
