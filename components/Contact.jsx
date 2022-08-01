@@ -1,7 +1,7 @@
 function Contact () {
     return (
         <>
-            <div id="contact" className="pt-10 pb-10 xl:px-[90px] bg-primary-color" data-aos="zoom-in-up">
+            <div id="contact" className="pt-10 pb-10 xl:px-[90px] bg-primary-color">
                 <div className="flex flex-col lg:flex-row px-4">
                     <div className="flex">                      
                         <div className="flex flex-col ">                      
