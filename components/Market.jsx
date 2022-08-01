@@ -26,7 +26,7 @@ function Market () {
                             <h1 className="font-medium text-base w-full px-[10px] font-montserrat">NAME</h1>
                             <h1 className="font-medium text-base w-6/12 text-center border-l border-l-background-color font-montserrat">PRICE</h1>
                         </div>
-                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center">
+                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center" data-aos="zoom-in-right">
                             <div className="flex w-full px-[10px] items-center">
                                 <img src="/assets/apex.png" className="w-[30px] h-[30px] px-0" alt="" />
                                 <div className="px-[10px]">                                  
@@ -37,7 +37,7 @@ function Market () {
                             <h1 className="font-bold w-6/12 text-center font-montserrat">Rp72.000</h1>
                         </div>
 
-                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center">
+                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center" data-aos="zoom-in-left">
                             <div className="flex w-full px-[10px] items-center">
                                 <img src="/assets/apex.png" className="w-[30px] h-[30px]" alt="" />
                                 <div className="px-[10px]">                                  
@@ -48,7 +48,7 @@ function Market () {
                             <h1 className="font-bold w-6/12 text-center font-montserrat">Rp148.000</h1>
                         </div>
 
-                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center">
+                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center" data-aos="zoom-in-right">
                             <div className="flex w-full px-[10px] items-center">
                                 <img src="/assets/valorant.png" className="w-[30px] h-[30px] px-0" alt="" />
                                 <div className="px-[10px]">                                  
@@ -59,7 +59,7 @@ function Market () {
                             <h1 className="font-bold w-6/12 text-center font-montserrat">Rp15.000</h1>
                         </div>
 
-                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center">
+                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center" data-aos="zoom-in-left">
                             <div className="flex w-full px-[10px] items-center">
                                 <img src="/assets/valorant.png" className="w-[30px] h-[30px] px-0" alt="" />
                                 <div className="px-[10px]">                                  
@@ -70,7 +70,7 @@ function Market () {
                             <h1 className="font-bold w-6/12 text-center font-montserrat">Rp800.000</h1>
                         </div>
 
-                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center">
+                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center" data-aos="zoom-in-right">
                             <div className="flex w-full px-[10px] items-center">
                                 <img src="/assets/fifa.png" className="w-[30px] h-[30px] px-0" alt="" />
                                 <div className="px-[10px]">                                  
@@ -81,7 +81,7 @@ function Market () {
                             <h1 className="font-bold w-6/12 text-center font-montserrat">Rp148.000</h1>
                         </div>
 
-                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center">
+                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center" data-aos="zoom-in-left">
                             <div className="flex w-full px-[10px] items-center">
                                 <img src="/assets/fifa.png" className="w-[30px] h-[30px] px-0" alt="" />
                                 <div className="px-[10px]">                                  
@@ -92,7 +92,7 @@ function Market () {
                             <h1 className="font-bold w-6/12 text-center font-montserrat">Rp1.420.000</h1>
                         </div>
 
-                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center">
+                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center" data-aos="zoom-in-right">
                             <div className="flex w-full px-[10px] items-center">
                                 <img src="/assets/gtav.png" className="w-[30px] h-[30px] px-0" alt="" />
                                 <div className="px-[10px]">                                  
@@ -103,7 +103,7 @@ function Market () {
                             <h1 className="font-bold w-6/12 text-center font-montserrat">Rp50.000</h1>
                         </div>
 
-                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center">
+                        <div className="flex bg-primary-color mx-4 mt-[10px] items-center" data-aos="zoom-in-left">
                             <div className="flex w-full px-[10px] items-center">
                                 <img src="/assets/gtav.png" className="w-[30px] h-[30px] px-0" alt="" />
                                 <div className="px-[10px]">                                  
@@ -115,7 +115,7 @@ function Market () {
                         </div>
                     </div>     
                 </div>
-                <div className="flex justify-center mb-10">
+                <div className="flex justify-center mb-10" data-aos="zoom-in">
                     <a href="#" className="text-primary-color font-montserrat px-10 py-2 border border-primary-color rounded-lg">View All</a>
                 </div>
             </div>

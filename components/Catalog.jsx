@@ -130,7 +130,7 @@ function Catalog () {
 
                     </div>
                 </div>
-                <div className="flex justify-center mb-10">
+                <div className="flex justify-center mb-10" data-aos="zoom-in">
                     <a href="#" className="text-primary-color font-montserrat px-10 py-2 border border-primary-color rounded-lg">View All</a>
                 </div>
             </div>

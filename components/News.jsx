@@ -21,7 +21,7 @@ function News () {
                 <div className="mt-10 mb-10" data-aos="zoom-in" data-aos-duration="2000">
                     <div className="xl:w-8/12 mx-auto">                     
                         <div className="flex justify-center">
-                            <div className="flex bg-card-color w-[300px] h-[320px] xl:w-[512px] xl:h-[480px] mx-2 rounded-lg">
+                            <div className="flex bg-card-color w-[300px] h-[320px] xl:w-[512px] xl:h-[480px] mx-2 rounded-lg" data-aos="zoom-in">
                                 <div className="relative">
                                     <img src="/assets/news/fifa23.jpg" className="justify-center rounded-t-lg" alt="" />
                                     <h1 className="font-bold font-montserrat text-base px-2 py-2">FIFA 23 Release Date, Gameplay and New Features</h1>
@@ -30,7 +30,7 @@ function News () {
                                 </div>
                             </div>
 
-                            <div className="flex bg-card-color w-[300px] h-[320px] xl:w-[512px] xl:h-[480px] mx-2 rounded-lg">
+                            <div className="flex bg-card-color w-[300px] h-[320px] xl:w-[512px] xl:h-[480px] mx-2 rounded-lg" data-aos="zoom-in">
                                 <div className="relative">
                                     <img src="/assets/news/gtavi.jpg" className="justify-center rounded-t-lg" alt="" />
                                     <h1 className="font-bold font-montserrat text-base px-2 py-2">FIFA 23 Release Date, Gameplay and New Features</h1>
@@ -41,7 +41,7 @@ function News () {
                         </div>
                         <div className="flex mx-auto justify-center mt-5">                       
                             <div className="flex flex-col xl:flex-row items-center">
-                                <div className="flex bg-card-color sm:w-[99%] md:w-[82%] h-[120px] xl:h-[150px] mx-2 my-4 rounded-lg">
+                                <div className="flex bg-card-color sm:w-[99%] md:w-[82%] h-[120px] xl:h-[150px] mx-2 my-4 rounded-lg" data-aos="zoom-in-right">
                                     <div className="relative flex">
                                         <img src="/assets/news/bf.jpg" className="w-[100px] h-[120px] xl:h-[150px] object-cover rounded-l-lg" alt="" />
                                         <div>                                  
@@ -52,7 +52,7 @@ function News () {
                                     </div>
                                 </div>
 
-                                <div className="flex bg-card-color h-[120px] sm:w-[99%] md:w-[82%] xl:h-[150px] mx-2 my-4 rounded-lg">
+                                <div className="flex bg-card-color h-[120px] sm:w-[99%] md:w-[82%] xl:h-[150px] mx-2 my-4 rounded-lg" data-aos="zoom-in-left">
                                     <div className="relative flex">
                                         <img src="/assets/news/apex.jpg" className="w-[100px] h-[120px] xl:h-[150px] object-cover rounded-l-lg" alt="" />
                                         <div>                                  
@@ -66,7 +66,7 @@ function News () {
                         </div>
                     </div>                  
                 </div>
-                <div className="flex justify-center mb-10">
+                <div className="flex justify-center mb-10" data-aos="zoom-in">
                     <a href="#" className="text-primary-color font-montserrat px-10 py-2 border border-primary-color rounded-lg">View All</a>
                 </div>
             </div>
